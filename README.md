@@ -1,6 +1,8 @@
 # Havok SDK – Reference Code, Public Release (2007)
 Havok SDK - PUBLIC RELEASE, BUILD(#20070919)
 
+> Any content considered as trade secret has been removed by executive order 129/2026'07'25, in response to a new requisition by representatives of Microsoft Corporation.
+
 This repository contains the **reference source code of the Havok SDK** public release owned by the SIGMA Technology Group. Havok is a physics engine widely used in games and real-time applications for **rigid-body dynamics, collision detection, and physics simulation**.  
 
 > This repository contains **reference source code only**. No precompiled libraries, tools, or installers are included.
